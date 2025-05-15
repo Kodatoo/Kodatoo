@@ -7,7 +7,7 @@ Sou desenvolvedor de software em busca de superar desafios e aprender cada vez m
 
 ## 📫 Contato
 - Email: gkodatofaria@gmail.com
-- LinkedIn: [linkedin.com/in/gabrielkodato](https://www.linkedin.com/in/gabriel-kodato-b745742b8/)
+- LinkedIn: [Meu Linkedin!](https://www.linkedin.com/in/gabriel-kodato-b745742b8/)
 
 <!--
 **Kodatoo/Kodatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
