@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Kodato
+Sou desenvolvedor de software em busca de superar desafios e aprender cada vez mais!
+
+## 🚀 Tecnologias que uso
+- HTML, CSS, Bootstrap
+- Python, flask
+
+## 📫 Contato
+- Email: gkodatofaria@gmail.com
+- LinkedIn: [linkedin.com/in/gabrielkodato](https://www.linkedin.com/in/gabriel-kodato-b745742b8/)
 
 <!--
 **Kodatoo/Kodatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
