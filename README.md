@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Gabriel Kodato
-Sou desenvolvedor de software em busca de superar desafios e aprender cada vez mais!
+Sou  desenvolvedor de software em busca de superar desafios e aprender cada vez mais!
 
 ## 💻 Tecnologias 
 <div>
@@ -16,7 +16,7 @@ Sou desenvolvedor de software em busca de superar desafios e aprender cada vez m
 - Portfólio: [Clique aqui](https://portfolio-c4e9.vercel.app/)
 
 ## 🚀 Projetos
-- Projeto API Fatec - 1 sem DSM - Crows
+- Projeto API Fatec - 1 semestre DSM - Crows
 - Objetivo:  o objetivo é criar uma plataforma web que oferece uma análise de desempenhos
 dos municípios de São Paulo sobre dados do comércio exterior, utilizando dados abertos do
 Ministério do Desenvolvimento, Indústria, Comércio e serviços.
