@@ -28,6 +28,7 @@ exportação utilizando Google Colab como ferramenta, utilizando biblioteca Pand
 Também participei do desenvolvimento Front-end do projeto, mais precisamente na página dos
 gráficos ajustando os layouts da página e filtros interativos.
 -  [GitHub do Projeto](https://github.com/arthur-oliver/API-Crows)
+  <img src="img/site-sprint-2.gif" width="450px" alt="Demonstração do projeto">
 
 
 
