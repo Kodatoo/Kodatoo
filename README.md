@@ -26,6 +26,7 @@ clínio e ascensão no mercado internacional.
 exportação utilizando Google Colab como ferramenta, utilizando biblioteca Pandas de Python.
 Também participei do desenvolvimento Front-end do projeto, mais precisamente na página dos
 gráficos ajustando os layouts da página e filtros interativos.
+- [GitHub do Projeto](https://github.com/arthur-oliver/API-Crows)
   <br> 
 
 - <img src="img/site-sprint-2.gif" alt="" id="gif" width=300px>
