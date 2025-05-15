@@ -29,6 +29,6 @@ gráficos ajustando os layouts da página e filtros interativos.
 - [GitHub do Projeto](https://github.com/arthur-oliver/API-Crows)
   <br> 
 
-- <img src="img/site-sprint-2.gif" alt="" id="gif" width=300px>
+- <img src="img/site-sprint-2.gif" alt="" id="gif" width=500px>
 
 
