@@ -13,6 +13,7 @@ Sou desenvolvedor de software em busca de superar desafios e aprender cada vez m
 ## 📫 Contato
 - Email: gkodatofaria@gmail.com
 - LinkedIn: [Meu Linkedin!](https://www.linkedin.com/in/gabriel-kodato-b745742b8/)
+- Portfólio: [Clique aqui](https://portfolio-c4e9.vercel.app/)
 
 ## 🚀 Projetos
 - Projeto API Fatec - 1 sem DSM - Crows
