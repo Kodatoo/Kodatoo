@@ -3,7 +3,7 @@ Sou desenvolvedor de software em busca de superar desafios e aprender cada vez m
 
 ## 🚀 Tecnologias que uso
 - HTML, CSS, Bootstrap
-- Python, flask
+- Python.
 
 ## 📫 Contato
 - Email: gkodatofaria@gmail.com
