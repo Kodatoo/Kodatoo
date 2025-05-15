@@ -7,6 +7,7 @@ Sou  desenvolvedor de software em busca de superar desafios e aprender cada vez 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width='40' height='40'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width='40' height='40'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width='40' height='40'/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width='40' height='40'/>
 </div>
    
  
@@ -26,10 +27,8 @@ clínio e ascensão no mercado internacional.
 exportação utilizando Google Colab como ferramenta, utilizando biblioteca Pandas de Python.
 Também participei do desenvolvimento Front-end do projeto, mais precisamente na página dos
 gráficos ajustando os layouts da página e filtros interativos.
+-  [GitHub do Projeto](https://github.com/arthur-oliver/API-Crows)
 
- <img src="img/site-sprint-2.gif" alt="" id="gif" width=500px>
-- [GitHub do Projeto](https://github.com/arthur-oliver/API-Crows)
-  <br> 
 
 
 
