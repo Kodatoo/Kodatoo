@@ -27,6 +27,6 @@ Também participei do desenvolvimento Front-end do projeto, mais precisamente na
 gráficos ajustando os layouts da página e filtros interativos.
   <br> 
 
-<img src="img/site-sprint-2.gif" alt="" id="gif" width=300px>
+- <img src="img/site-sprint-2.gif" alt="" id="gif" width=300px>
 
 
