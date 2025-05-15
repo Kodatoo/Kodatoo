@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gabriel Kodato
 Sou desenvolvedor de software em busca de superar desafios e aprender cada vez mais!
 
-## 🚀 Tecnologias que uso
+## 💻 Tecnologias que uso
 - HTML, CSS, Bootstrap
 - Python.
 
@@ -9,17 +9,16 @@ Sou desenvolvedor de software em busca de superar desafios e aprender cada vez m
 - Email: gkodatofaria@gmail.com
 - LinkedIn: [Meu Linkedin!](https://www.linkedin.com/in/gabriel-kodato-b745742b8/)
 
-<!--
-**Kodatoo/Kodatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projetos
+- Projeto API Fatec - 1 sem DSM - Crows
+- Objetivo:  o objetivo é criar uma plataforma web que oferece uma análise de desempenhos
+dos municípios de São Paulo sobre dados do comércio exterior, utilizando dados abertos do
+Ministério do Desenvolvimento, Indústria, Comércio e serviços.
+A ferramenta permitirá que tomadores de decisão identifiquem municípios em estagnação, de-
+clínio e ascensão no mercado internacional.
+- Participação: Criei gráficos de top 10 valor FOB por municípios no ramo de importação e
+exportação utilizando Google Colab como ferramenta, utilizando biblioteca Pandas de Python.
+Também participei do desenvolvimento Front-end do projeto, mais precisamente na página dos
+gráficos ajustando os layouts da página e filtros interativos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
