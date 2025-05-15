@@ -25,6 +25,7 @@ clínio e ascensão no mercado internacional.
 exportação utilizando Google Colab como ferramenta, utilizando biblioteca Pandas de Python.
 Também participei do desenvolvimento Front-end do projeto, mais precisamente na página dos
 gráficos ajustando os layouts da página e filtros interativos.
-<img src="img/gif projeto.gif" alt="" id="gif">
+
+<img src="img/site-sprint-2.gif" alt="" id="gif">
 
 
